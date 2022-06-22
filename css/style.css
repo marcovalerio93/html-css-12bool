@@ -1,13 +1,13 @@
 .box{
-    background-color: blue;
+    background-color:#006cfa;
     color: #fff;
-    height: 100px;
+    height: 50px;
     border: solid 1px #fff;
     padding: 5px;
 }
 
 .box-inner{
-    background-color: green;
+    background-color: #00e165;
     border: solid 1px #fff;
     padding: 5px
 }
