@@ -8,6 +8,5 @@
 
 .box-inner{
     background-color: #00e165;
-    border: solid 1px #fff;
-    padding: 5px
+    border: solid 1px;
 }
