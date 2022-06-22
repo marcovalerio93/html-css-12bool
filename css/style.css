@@ -1,0 +1,13 @@
+.box{
+    background-color: blue;
+    color: #fff;
+    height: 50px;
+    border: solid 1px #fff;
+    padding: 5px;
+}
+
+.box-inner{
+    background-color: green;
+    border: solid 1px #fff;
+    padding: 5px
+}
